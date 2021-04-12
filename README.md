@@ -1,1 +1,3 @@
-Esse é meu 1º projeto no github com a hex.
+*Hello World!*"
+
+I'm now a HEX and this is my first repository for the course.
